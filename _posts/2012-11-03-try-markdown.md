@@ -30,7 +30,9 @@
 
 3. 有序列表
 
+	printf("hello world");
 
+![ruby-china logo](http://ruby-china.org/assets/big_logo.png  "logo")
 
 [github](http://iorilu.github.com "Github") 是个好网站啊
 
